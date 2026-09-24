@@ -1,0 +1,15 @@
+{
+  "name": "nexus-frontend",
+  "version": "2.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.380.0",
+    "recharts": "^2.12.7"
+  }
+}
